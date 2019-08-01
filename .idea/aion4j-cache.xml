@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="aion4j-cache">
+    <option name="methodArgs">
+      <map>
+        <entry key="getCount-">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="incrementCount-int,">
+          <value>
+            <list>
+              <option value="60" />
+            </list>
+          </value>
+        </entry>
+        <entry key="resetCounter-int,">
+          <value>
+            <list>
+              <option value="11" />
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="deployArgs">
+      <map>
+        <entry key="counter.args" value="-I 71" />
+        <entry key="counter.dontask" value="false" />
+      </map>
+    </option>
+  </component>
+</project>

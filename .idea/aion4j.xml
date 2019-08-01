@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="aion4j">
+    <option name="web3RpcUrl" value="https://aion.api.nodesmith.io/v1/mastery/jsonrpc?apiKey=da85417fac594f0099708ad6e7ea2e97" />
+    <option name="account" value="0xa0eefcf0b4f4b03130870129bf02047eb40d9501af90f6045849ea25f77d4c4c" />
+    <option name="pk" value="d2abbfb69e2927abea2388ce74aa3199d86293a4704de0c6ff3572ec6719fefa83f31c24396498eccd1f4eaf690f9e24110c5a1c55ef436c1fe1aea5b452af40" />
+    <option name="deployNrg" value="5000000" />
+    <option name="deployNrgPrice" value="100000000000" />
+    <option name="contractTxnNrg" value="2000000" />
+    <option name="contractTxnNrgPrice" value="100000000000" />
+    <option name="mvnProfile" value="remote" />
+    <option name="avmStoragePath" value="" />
+    <option name="localDefaultAccount" value="" />
+  </component>
+</project>
